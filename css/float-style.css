@@ -1,0 +1,19 @@
+.clearfix::after {
+  content: " ";
+  display: block;
+  clear: both;
+}
+
+aside {
+  float: left;
+}
+
+main {
+  float: left;
+}
+.float {
+  float: right;
+}
+img {
+  float: left;
+}
